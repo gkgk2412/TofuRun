@@ -1,0 +1,8 @@
+﻿  dx9_d3dxsprite.cpp
+C:\Users\gkgk2\Downloads\20182418손희진_01\MyObjectTT.h(6,1): warning C4005: 'MAX_ANI': 매크로 재정의
+C:\Users\gkgk2\Downloads\20182418손희진_01\MyAnimationSprite.h(6): message : 'MAX_ANI'의 이전 정의를 참조하십시오.
+C:\Users\gkgk2\Downloads\20182418손희진_01\MyHp.h(7,1): warning C4005: 'MAX_ANI_FRAME': 매크로 재정의
+C:\Users\gkgk2\Downloads\20182418손희진_01\MyAnimationSprite.h(7): message : 'MAX_ANI_FRAME'의 이전 정의를 참조하십시오.
+C:\Users\gkgk2\Downloads\20182418손희진_01\dx9_d3dxsprite.cpp(693,30): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkgk2\Downloads\20182418손희진_01\dx9_d3dxsprite.cpp(694,30): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  dx9_d3dxsprite.vcxproj -> C:\Users\gkgk2\Downloads\20182418손희진_01\.\Debug\dx9_d3dxsprite.exe

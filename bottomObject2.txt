@@ -1,0 +1,4 @@
+bottomObject2.png
+1
+0 1
+0 0 80 70 1

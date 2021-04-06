@@ -1,0 +1,4 @@
+bottomObject.png
+1
+0 1
+80 44 50 91 1

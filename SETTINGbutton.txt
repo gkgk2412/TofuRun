@@ -1,0 +1,4 @@
+SETTINGbutton.png
+1
+0 1
+66 57 78 79 1
